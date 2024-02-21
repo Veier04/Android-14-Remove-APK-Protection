@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
      F:
-      description: 'Framework.jar Url'
+      description: 'https://transfer.sh/rksqE1tTgh/services.jar'
       required: true
       default: ''
 
